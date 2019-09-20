@@ -1,0 +1,3 @@
+[submodule "HybridAutomationFramework"]
+	path = HybridAutomationFramework
+	url = https://github.com/viveksr80/HybridAutomationFramework.git
